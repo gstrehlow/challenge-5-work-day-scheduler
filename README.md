@@ -1,5 +1,7 @@
 # Work Day Scheduler
 
+![screencapture-file-C-Users-gdstr-git-homeworks-challenge-5-work-day-scheduler-index-html-2021-10-24-22_08_05](https://user-images.githubusercontent.com/90304692/138629064-44374590-9e6c-4af5-ad44-747ab3ed3d29.png)
+
 ## My Task
 Create a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
