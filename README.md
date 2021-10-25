@@ -16,3 +16,5 @@ As an employee with a busy schedule, I want to add important events to a daily p
 - When I click into a time block, then I can enter an event.
 - When I click the save button for that time block, then the text for that event is saved in local storage.
 - When I refresh the page, then the saved events persist.
+
+[Link to Deployed Application](https://gstrehlow.github.io/challenge-5-work-day-scheduler/)
